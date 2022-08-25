@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 2em;
+}
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.row {
+    padding: 1rem;
+}
+.barra {
+    background-color: rgb(209, 175, 241);
+}
+.cajaBorde {
+    border-style: solid;
+    border-color: rgb(209, 175, 241) ;
+    height: 30vh;
+}
